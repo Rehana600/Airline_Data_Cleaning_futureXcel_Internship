@@ -20,6 +20,12 @@ through a structured data science workflow.
 - Correlation analysis
 - Insight extraction
 
+- ## Week 4 – Feature Engineering & Transformation
+- Created service-based and customer-related features
+- Encoded categorical attributes
+- Applied feature scaling
+- Improved dataset structure for advanced analysis
+
 ## Tools Used
 Python, Pandas, Matplotlib, Seaborn
 
